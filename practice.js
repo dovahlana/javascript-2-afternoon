@@ -30,6 +30,7 @@ alert(me.name)
 var favoriteThings= {
   band: 'Ghost',
   food: 'sushi',
+  person: 'Cameron',
   book: 'The Great Gatsby',
   movie: 'Saw',
   holiday: 'Halloween'
